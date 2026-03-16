@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Console\%SystemRoot%_System32_WindowsPowerShell_v1.0_powershell.exe]
+"ColorTable05"=dword:00562401
+"ColorTable06"=dword:00f0edee
+"FaceName"="Consolas"
+"FontFamily"=dword:00000036
+"FontWeight"=dword:00000190
+"PopupColors"=dword:00000087
+"ScreenColors"=dword:00000006
